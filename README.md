@@ -1,1 +1,1 @@
-# Lung-Tumor-Detection
+# Lung Tumor Detection
