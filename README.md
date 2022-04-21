@@ -1,6 +1,12 @@
 # Lung Tumor Detection
 Lung Tumor Detection on Single Image using MATLAB
 
+# Bachelor Thesis
+
+This code was used to implement the experiments of my Bachelor Thesis in Physics Department (Electronics Laboratory).
+
+[Bachelor Thesis](https://nemertes.library.upatras.gr/jspui/handle/10889/14127?mode=full)
+
 The input image is the following:
 
 ![Tumor](https://user-images.githubusercontent.com/72823989/130361385-988ee2a8-51c2-408d-9e9c-bf3a573b529c.png)
